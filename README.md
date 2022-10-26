@@ -49,8 +49,6 @@
 
 4. Asegurar que tengas abierto el apartado `Explorador de soluciones` en el entorno y edición.
 
-5. Ir 
-
 5. Ir al archivo `CMakeLists.txt`, y reescribir todo el código con:
 
     ```cmake
